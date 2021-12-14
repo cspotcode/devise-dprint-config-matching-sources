@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "ts-node": "latest",
+        "typescript": "latest",
+        "@swc/core": "latest",
+        "dprint": "latest",
+        "zx": "latest",
+        "fs-extra": "latest",
+        "@types/fs-extra": "latest"
+    }
+}
